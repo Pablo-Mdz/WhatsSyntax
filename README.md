@@ -5,8 +5,8 @@ The application provides features such as messaging, status viewing, call histor
 
 ## Screenshots
 
-![chat-menu](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/1afc30d2-b659-43aa-b2be-971b1aa7a7a8.jpg | width=200)
-![chat-detail](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/2550b3b1-8cae-478d-b764-d5e3d74dd269.jpg | width=200)
+![chat-menu](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/1afc30d2-b659-43aa-b2be-971b1aa7a7a8 | width=200)
+![chat-detail](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/2550b3b1-8cae-478d-b764-d5e3d74dd269)| width=200
 ![status-menu](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/6018052c-1cb6-4035-82eb-64e56f03ceeb.jpg | width=200)
 ![status-detail](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/d95c5b40-a225-47fa-938a-538415f97600.jpg | width=200)
 ![edit-from-status-list](https://github.com/Pablo-Mdz/WhatsSyntax/assets/80485682/7fb609c8-1666-4dd0-912c-5ca8a649ed58.jpg | width=200)
