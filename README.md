@@ -1,6 +1,7 @@
 # WhatsApp Clone
 
-A simple WhatsApp clone application built with Kotlin and Android Studio, focusing on functionality with a straightforward UI design. The application provides features such as messaging, status viewing, call history, contact editing, and settings for managing contacts.
+A simple WhatsApp clone application built with Kotlin and Android Studio, focusing on functionality with a straightforward UI design.
+The application provides features such as messaging, status viewing, call history, contact editing, and settings for managing contacts.
 
 ## Screenshots
 
@@ -33,20 +34,10 @@ A simple WhatsApp clone application built with Kotlin and Android Studio, focusi
 
 ## Architecture
 
-The application follows a modular structure using fragments, adapters, navigation graphs, model classes, and data sources. The user interface is deliberately kept simple to prioritize functionality, with inline comments providing insights into the code logic.
+The application follows a modular structure using fragments, adapters, navigation graphs, model classes, and data sources.
+The user interface is deliberately kept simple to prioritize functionality, with inline comments providing insights into the code logic.
 
-## Usage
-
-Clone the repository and open the project in Android Studio. Run the application on an emulator or physical device to explore the WhatsApp clone.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Special thanks to the Kotlin and Android Studio communities for their valuable resources and support.
+- The application was made by Marco Grimm, Aurelio Silvestrini, Michel Lobbos and me.
