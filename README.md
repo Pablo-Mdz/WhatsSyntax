@@ -40,4 +40,4 @@ The user interface is deliberately kept simple to prioritize functionality, with
 
 ## Acknowledgments
 
-- The application was made by Marco Grimm, Aurelio Silvestrini, Michel Lobbos and me.
+- The application was made by Marco Grimme, Aurelio Silvestrini, Michel Lobbos and Pablo Cigoy.
